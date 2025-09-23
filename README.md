@@ -90,7 +90,7 @@ $ tree -a
 
    Como se puiede observar no se despliega la página de inicio debido a que se está presentado un error.
 
-6. Se comprueban los persmisos de la carpeta `app`
+6. Se comprueban los permisos de la carpeta `app`
 
    ```
    $ ls -l
